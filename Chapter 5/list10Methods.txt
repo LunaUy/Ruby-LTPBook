@@ -1,0 +1,40 @@
+Info:
+A method is a chunk of code that performs a specific task. You can use methods to make your code more organized and reusable."
+1. puts
+2. gets
+3. chomp
+4. to_i
+5. to_f
+6. to_s
+7. +
+8. -
+9. *
+10. /
+are all the methods we've seen so far.
+
+At the end of Chapter 5, we've learned nine new string methods, two new arithmetic methods, two methods for working with random numbers, and the Math object, with the methods and constants that it contains. Your Ruby vocabulary has increased a lot!
+1. reverse
+2. length
+3. upcase
+4. downcase
+5. swapcase
+6. capitalize
+7. center
+8. ljust
+9. rjust
+
+1. **
+2. %
+
+abs
+
+1. rand
+2. srand
+
+1. Math::PI
+2. Math::E
+3. Math.sin
+4. Math.cos
+5. Math.tan
+6. Math.log
+7. Math.sqrt
